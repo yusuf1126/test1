@@ -1,2 +1,6 @@
 tianjjia
+<<<<<<< HEAD
 是水水水
+=======
+方法地方
+>>>>>>> e61ffe8 (tianjiacommitsss shuyom)
